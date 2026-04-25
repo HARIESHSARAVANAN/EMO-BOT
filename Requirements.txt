@@ -1,0 +1,9 @@
+opencv-python
+numpy
+pyttsx3
+transformers
+torch
+mtcnn
+deepface
+tensorflow
+tf-keras
